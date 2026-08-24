@@ -1,7 +1,1706 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AWS agentic cloud automation",
+          "description": "aws/agent-toolkit-for-aws Official AWS-supported MCP, skills, plugins, project rules, IAM-aware controls, CloudWatch metrics, and CloudTrail auditability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219009070,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:11:22Z",
+            "owner": "aws",
+            "repo": "agent-toolkit-for-aws",
+            "stars": 2421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure cloud automation",
+          "description": "microsoft/mcpmicrosoft/azure-skills Official Microsoft MCP and skills/plugin sources for Azure resource workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 963038660,
+            "language": "C#",
+            "last_commit": "2026-08-24T13:11:10Z",
+            "owner": "microsoft",
+            "repo": "mcp",
+            "stars": 3599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Cloud automation",
+          "description": "google/mcpgoogleapis/gcloud-mcpgoogle/skills Official Google MCP and skills sources for GCP, Cloud Run, GKE, observability, and storage workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1110817322,
+            "language": null,
+            "last_commit": "2026-08-17T19:46:40Z",
+            "owner": "google",
+            "repo": "mcp",
+            "stars": 4533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Source-control DevOps",
+          "description": "github/github-mcp-serverGitLab MCP serveratlassian/atlassian-mcp-serverLinear MCP server docs Official MCP tool surfaces for repos, issues, PRs, Jira, Bitbucket, Linear roadmap/issue workflows, and related delivery workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 942771284,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:26:46Z",
+            "owner": "github",
+            "repo": "github-mcp-server",
+            "stars": 32465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform and IaC",
+          "description": "hashicorp/terraform-mcp-serverPulumi MCP Serveropentofu/opentofu-mcp-server Official IaC MCP sources for Terraform Registry/HCP Terraform, Pulumi Cloud automation, and OpenTofu Registry documentation lookup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969282615,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:43:55Z",
+            "owner": "hashicorp",
+            "repo": "terraform-mcp-server",
+            "stars": 1511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SRE incident response",
+          "description": "grafana/mcp-grafanadatadog-labs/mcp-serverHoneycomb MCP docsElastic Agent Builder MCP server docsPagerDuty/pagerduty-mcp-server Official observability and incident-management MCPs for metrics, logs, traces, SLOs, triggers, indexed operational data, alerts, incidents, and on-call context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 907869862,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:17:34Z",
+            "owner": "grafana",
+            "repo": "mcp-grafana",
+            "stars": 3383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinOps and cloud cost",
+          "description": "vantage-sh/vantage-mcp-server Official Vantage MCP server for cloud spend analysis, budgets, anomalies, reports, and provider-resource cost context across Vantage-connected providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960003560,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T23:10:13Z",
+            "owner": "vantage-sh",
+            "repo": "vantage-mcp-server",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security and code quality",
+          "description": "OWASP MCP Top 10cisco-ai-defense/mcp-scannerSonarSource/sonarqube-mcp-serverokta/okta-mcp-serverSnyk Studio MCP docssnyk/studio-mcpWiz WIN MCP Server docsCrowdStrike/falcon-mcpDopplerHQ/mcp-server Official MCPs and security resources for MCP threat modeling, MCP server scanning, code quality, application security, identity-aware workflows, secrets management, agent security, cloud-security posture, and Falcon-platform SOC automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1062952726,
+            "language": "Python",
+            "last_commit": "2026-08-19T21:53:19Z",
+            "owner": "cisco-ai-defense",
+            "repo": "mcp-scanner",
+            "stars": 1046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data platform operations",
+          "description": "mongodb-js/mongodb-mcp-serverredis/mcp-redisgoogleapis/mcp-toolboxdbt-labs/dbt-mcpbytebase/dbhub Official database and data-platform MCP servers for MongoDB, Redis, Google MCP Toolbox for Databases, dbt, and Bytebase-maintained DBHub. Treat DBHub as independent-vendor-backed and use read-only database credentials/approval gates for SQL execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960484071,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:39:22Z",
+            "owner": "mongodb-js",
+            "repo": "mongodb-mcp-server",
+            "stars": 1106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes and platform operations",
+          "description": "kubernetes-sigs/mcp-lifecycle-operatorcontainers/kubernetes-mcp-serverskyhook-io/radar Official Kubernetes SIG lifecycle tooling plus community Kubernetes/OpenShift MCP operations and cluster triage with explicit RBAC/blast-radius notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1166548621,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:37:11Z",
+            "owner": "kubernetes-sigs",
+            "repo": "mcp-lifecycle-operator",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CI/CD and GitOps",
+          "description": "jenkinsci/mcp-server-pluginargoproj-labs/mcp-for-argocdharness/mcp-server Official Jenkins, Argo Project, and Harness resources for pipeline, build, deployment, rollback, and GitOps workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 991268311,
+            "language": "Java",
+            "last_commit": "2026-08-24T11:59:24Z",
+            "owner": "jenkinsci",
+            "repo": "mcp-server-plugin",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP development and governance",
+          "description": "modelcontextprotocol/python-sdkmodelcontextprotocol/typescript-sdkmodelcontextprotocol/registryDocker MCP Catalog and Toolkit Official SDKs, registry, and Docker governance surfaces for building, packaging, and controlling DevOps MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 862584018,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:42:02Z",
+            "owner": "modelcontextprotocol",
+            "repo": "python-sdk",
+            "stars": 24107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browser automation and debugging",
+          "description": "ChromeDevTools/chrome-devtools-mcpmicrosoft/playwright-mcp Official browser automation MCP servers for web-app QA, performance tracing, network/console inspection, and accessibility-tree-driven browser workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1054793726,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:54:30Z",
+            "owner": "ChromeDevTools",
+            "repo": "chrome-devtools-mcp",
+            "stars": 49641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent frameworks and templates",
+          "description": "google/adk-pythonGoogleCloudPlatform/agent-starter-pack Official Google agent framework and production templates with CI/CD, evaluation, and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 958830659,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:13:55Z",
+            "owner": "google",
+            "repo": "adk-python",
+            "stars": 21255
+          }
+        }
+      ],
+      "title": "Top picks by use case"
+    },
+    {
+      "description": "New catalog entries appear below; notable non-entry changes (formatting, labels, tooling) are in the changelog.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2026-08-07",
+          "description": "heroku/heroku-mcp-server Cloud / Heroku PaaS operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 955359601,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T19:03:51Z",
+            "owner": "heroku",
+            "repo": "heroku-mcp-server",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-25",
+          "description": "opentofu/opentofu-mcp-server IaC / OpenTofu Registry MCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988291134,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T12:43:06Z",
+            "owner": "opentofu",
+            "repo": "opentofu-mcp-server",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-23",
+          "description": "containers/kubernetes-mcp-server Community / Kubernetes and OpenShift",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 930678258,
+            "language": "Go",
+            "last_commit": "2026-08-24T10:55:33Z",
+            "owner": "containers",
+            "repo": "kubernetes-mcp-server",
+            "stars": 2014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-23",
+          "description": "cisco-ai-defense/mcp-scanner Security / MCP server scanning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1062952726,
+            "language": "Python",
+            "last_commit": "2026-08-19T21:53:19Z",
+            "owner": "cisco-ai-defense",
+            "repo": "mcp-scanner",
+            "stars": 1046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-22",
+          "description": "docker/hub-mcp DevOps / Docker Hub container workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1000982653,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T09:43:08Z",
+            "owner": "docker",
+            "repo": "hub-mcp",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-22",
+          "description": "digitalocean-labs/mcp-digitalocean Cloud / DigitalOcean",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970162170,
+            "language": "Go",
+            "last_commit": "2026-08-24T00:55:09Z",
+            "owner": "digitalocean-labs",
+            "repo": "mcp-digitalocean",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-22",
+          "description": "googleapis/mcp-toolbox Data platform / database toolbox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 812044182,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:19:06Z",
+            "owner": "googleapis",
+            "repo": "mcp-toolbox",
+            "stars": 16249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-22",
+          "description": "dbt-labs/dbt-mcp Data platform / dbt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 947516890,
+            "language": "Python",
+            "last_commit": "2026-08-21T01:27:13Z",
+            "owner": "dbt-labs",
+            "repo": "dbt-mcp",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-22",
+          "description": "bytebase/dbhub Data platform / independent-vendor DBHub SQL MCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945530209,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T05:20:06Z",
+            "owner": "bytebase",
+            "repo": "dbhub",
+            "stars": 3394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-22",
+          "description": "aquasecurity/trivy-mcp Security / Trivy vulnerability scanning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 972057071,
+            "language": "Go",
+            "last_commit": "2025-12-17T16:02:32Z",
+            "owner": "aquasecurity",
+            "repo": "trivy-mcp",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-18",
+          "description": "DopplerHQ/mcp-server Security / Doppler secrets management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1085209879,
+            "language": "TypeScript",
+            "last_commit": "2026-06-04T20:10:31Z",
+            "owner": "DopplerHQ",
+            "repo": "mcp-server",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-17",
+          "description": "CrowdStrike/falcon-mcp Security / CrowdStrike Falcon SOC automation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999737146,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:41:53Z",
+            "owner": "CrowdStrike",
+            "repo": "falcon-mcp",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-14",
+          "description": "dynatrace-oss/dynatrace-mcp SRE / Dynatrace observability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 971357826,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:26:00Z",
+            "owner": "dynatrace-oss",
+            "repo": "dynatrace-mcp",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-12",
+          "description": "harness/mcp-server CI/CD / Harness",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 983627253,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T10:04:10Z",
+            "owner": "harness",
+            "repo": "mcp-server",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-12",
+          "description": "harness/harness-skills Agent skills / Harness",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1179203140,
+            "language": "Shell",
+            "last_commit": "2026-07-29T01:59:11Z",
+            "owner": "harness",
+            "repo": "harness-skills",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-09",
+          "description": "redis/mcp-redis Data platform / Redis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959084910,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:04:27Z",
+            "owner": "redis",
+            "repo": "mcp-redis",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-07",
+          "description": "skyhook-io/radar Kubernetes / community MCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137865761,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:19:04Z",
+            "owner": "skyhook-io",
+            "repo": "radar",
+            "stars": 3083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-06",
+          "description": "vantage-sh/vantage-mcp-server FinOps / cloud cost",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960003560,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T23:10:13Z",
+            "owner": "vantage-sh",
+            "repo": "vantage-mcp-server",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-05",
+          "description": "hashicorp/vault-mcp-server IaC / secrets management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005167502,
+            "language": "Go",
+            "last_commit": "2026-08-20T04:04:55Z",
+            "owner": "hashicorp",
+            "repo": "vault-mcp-server",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-05",
+          "description": "cloudflare/mcp-server-cloudflare Cloud / edge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 895268756,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:19:59Z",
+            "owner": "cloudflare",
+            "repo": "mcp-server-cloudflare",
+            "stars": 4105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-05",
+          "description": "CircleCI-Public/mcp-server-circleci CI/CD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 955501958,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T17:41:49Z",
+            "owner": "CircleCI-Public",
+            "repo": "mcp-server-circleci",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-05",
+          "description": "mongodb-js/mongodb-mcp-server Data platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960484071,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:39:22Z",
+            "owner": "mongodb-js",
+            "repo": "mongodb-mcp-server",
+            "stars": 1106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-05",
+          "description": "backstage/backstage (mcp-actions-backend) Platform toolkits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236095576,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:16:28Z",
+            "owner": "backstage",
+            "repo": "backstage",
+            "stars": 34227
+          }
+        }
+      ],
+      "title": "Recently added"
+    },
+    {
+      "description": "The source of truth is data/repos.yaml. The catalog combines official vendor and open-source project resources with a dedicated section for community-driven tools and references. Entries include executable software as well as SDKs, documentation, security frameworks, registries, and other ecosystem resources.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws/agent-toolkit-for-aws",
+              "description": "prodmcpapprovalevidencewrite Official AWS-supported toolkit with managed MCP server access, current AWS docs/API knowledge tools, on-demand agent skills, Claude Code/Codex plugins, and project rules for Kiro, Claude Code, Cursor, Codex, and other MCP-compatible agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1219009070,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:11:22Z",
+                "owner": "aws",
+                "repo": "agent-toolkit-for-aws",
+                "stars": 2421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awslabs/mcp",
+              "description": "prodmcpapprovalwrite Official AWS Labs MCP server collection; useful legacy/source reference while AWS transitions capabilities into Agent Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952238700,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:21:17Z",
+                "owner": "awslabs",
+                "repo": "mcp",
+                "stars": 9636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microsoft/mcp",
+              "description": "prodmcpapprovalwrite Official Microsoft MCP catalog, including Azure cloud and infrastructure MCP references.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 963038660,
+                "language": "C#",
+                "last_commit": "2026-08-24T13:11:10Z",
+                "owner": "microsoft",
+                "repo": "mcp",
+                "stars": 3599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google/mcp",
+              "description": "prodmcpapprovalwrite Official Google MCP repository listing managed and open-source MCP servers for Google and Google Cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1110817322,
+                "language": null,
+                "last_commit": "2026-08-17T19:46:40Z",
+                "owner": "google",
+                "repo": "mcp",
+                "stars": 4533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "googleapis/gcloud-mcp",
+              "description": "prodmcpapprovalwrite Official Google API repository for gcloud, observability, storage, and backup/disaster-recovery MCP servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1032135422,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T20:00:40Z",
+                "owner": "googleapis",
+                "repo": "gcloud-mcp",
+                "stars": 891
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoogleCloudPlatform/cloud-run-mcp",
+              "description": "prodmcpapprovalwrite Official Google Cloud Platform MCP server for deploying apps to Cloud Run.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 979049639,
+                "language": "JavaScript",
+                "last_commit": "2026-08-20T13:36:59Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "cloud-run-mcp",
+                "stars": 626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cloudflare/mcp-server-cloudflare",
+              "description": "prodmcpapprovalwrite Official Cloudflare MCP servers for account, Workers, and edge configuration workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 895268756,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T09:19:59Z",
+                "owner": "cloudflare",
+                "repo": "mcp-server-cloudflare",
+                "stars": 4105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "heroku/heroku-mcp-server",
+              "description": "prototypemcpapprovalwrite Official Heroku Platform MCP Server using the Heroku CLI for app lifecycle management, deploys, dyno scaling/restarts, logs, add-ons, pipelines, teams/spaces, and Heroku Postgres operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 955359601,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T19:03:51Z",
+                "owner": "heroku",
+                "repo": "heroku-mcp-server",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vercel/vercel-mcp-overview",
+              "description": "prodmcpapprovalwrite Official public overview of Vercel's hosted MCP server for project and deployment context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1133983684,
+                "language": null,
+                "last_commit": "2026-01-14T05:31:46Z",
+                "owner": "vercel",
+                "repo": "vercel-mcp-overview",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "digitalocean-labs/mcp-digitalocean",
+              "description": "prototypemcpapprovalwrite DigitalOcean Labs MCP integration for self-hosted cloud operations over DigitalOcean droplets, App Platform, databases, and account resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 970162170,
+                "language": "Go",
+                "last_commit": "2026-08-24T00:55:09Z",
+                "owner": "digitalocean-labs",
+                "repo": "mcp-digitalocean",
+                "stars": 128
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Cloud MCP Servers and Agent Toolkits"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "microsoft/azure-devops-mcp",
+              "description": "prodmcpapprovalwrite Official Azure DevOps MCP server with remote-first onboarding and local server option.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 984142834,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:55:48Z",
+                "owner": "microsoft",
+                "repo": "azure-devops-mcp",
+                "stars": 1977
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github/github-mcp-server",
+              "description": "prodmcpapprovalwrite Official GitHub MCP server for repository, issue, pull request, code, and workflow automation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 942771284,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:26:46Z",
+                "owner": "github",
+                "repo": "github-mcp-server",
+                "stars": 32465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "atlassian/atlassian-mcp-server",
+              "description": "prodmcpapprovalwrite Official Atlassian Rovo MCP server for Jira, Confluence, Jira Service Management, Bitbucket, and Compass.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1030580992,
+                "language": "JavaScript",
+                "last_commit": "2026-07-27T23:42:23Z",
+                "owner": "atlassian",
+                "repo": "atlassian-mcp-server",
+                "stars": 981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker/mcp-registry",
+              "description": "prodmcpapprovalevidence Official Docker MCP registry and catalog source for verified containerized MCP servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 998827890,
+                "language": "Go",
+                "last_commit": "2026-08-24T05:17:40Z",
+                "owner": "docker",
+                "repo": "mcp-registry",
+                "stars": 545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker/hub-mcp",
+              "description": "prototypemcpapprovalwrite Official Docker Hub MCP server for AI-assisted image discovery, image recommendations, and Docker Hub repository workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1000982653,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T09:43:08Z",
+                "owner": "docker",
+                "repo": "hub-mcp",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kubernetes-sigs/mcp-lifecycle-operator",
+              "description": "prototypemcpapprovalwrite Official Kubernetes SIG operator for declaratively deploying and rolling out MCP servers, not a general kubectl MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1166548621,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:37:11Z",
+                "owner": "kubernetes-sigs",
+                "repo": "mcp-lifecycle-operator",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official DevOps MCP Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SonarSource/sonarqube-mcp-server",
+              "description": "prodmcpapproval Official SonarQube MCP server for code quality and security insights in AI agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 975408513,
+                "language": "Java",
+                "last_commit": "2026-08-24T13:41:35Z",
+                "owner": "SonarSource",
+                "repo": "sonarqube-mcp-server",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "okta/okta-mcp-server",
+              "description": "prodmcpapprovalwrite Official Okta self-hosted MCP server for connecting agents to Okta identity workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062447322,
+                "language": "Python",
+                "last_commit": "2026-08-23T16:25:05Z",
+                "owner": "okta",
+                "repo": "okta-mcp-server",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snyk/studio-mcp",
+              "description": "prodmcpapprovalevidence Official Snyk MCP server (Go) providing snyk_sca_scan, snyk_code_scan, snyk_iac_scan, snyk_container_scan, snyk_sbom_scan, snyk_secret_scan, and snyk_aibom tools via the CLI command.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1091844373,
+                "language": "Go",
+                "last_commit": "2026-08-19T15:55:54Z",
+                "owner": "snyk",
+                "repo": "studio-mcp",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snyk/agent-scan",
+              "description": "prodapprovalevidence Official Snyk security scanner for AI agents, MCP servers, and agent skills.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 962024783,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:11:28Z",
+                "owner": "snyk",
+                "repo": "agent-scan",
+                "stars": 2952
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrowdStrike/falcon-mcp",
+              "description": "prototypemcpapprovalwrite Official CrowdStrike MCP server (Python, public preview) for threat detection, incident investigation, threat intelligence, endpoint inventory, identity protection, NG-SIEM, and cloud security (CSPM/CSVM). Use least-privilege API scopes; write-capable modules can change endpoint policy and detection rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999737146,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:41:53Z",
+                "owner": "CrowdStrike",
+                "repo": "falcon-mcp",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DopplerHQ/mcp-server",
+              "description": "prototypemcpapprovalwrite Official Doppler MCP server (TypeScript, Apache-2.0) providing AI assistants access to the Doppler secrets API. Experimental; use service tokens scoped per config. Write-capable — can create/delete secrets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1085209879,
+                "language": "TypeScript",
+                "last_commit": "2026-06-04T20:10:31Z",
+                "owner": "DopplerHQ",
+                "repo": "mcp-server",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cisco-ai-defense/mcp-scanner",
+              "description": "prodmcpapprovalevidence Cisco AI Defense MCP Scanner for scanning MCP servers and tools with YARA rules, LLM-as-judge, Cisco AI Defense Inspect API, dependency checks, readiness checks, and optional VirusTotal analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062952726,
+                "language": "Python",
+                "last_commit": "2026-08-19T21:53:19Z",
+                "owner": "cisco-ai-defense",
+                "repo": "mcp-scanner",
+                "stars": 1046
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aquasecurity/trivy-mcp",
+              "description": "prototypemcpapprovalevidence Official Aqua Security Trivy MCP plugin exposing vulnerability, misconfiguration, secret, filesystem, container image, and repository scanning to MCP clients.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 972057071,
+                "language": "Go",
+                "last_commit": "2025-12-17T16:02:32Z",
+                "owner": "aquasecurity",
+                "repo": "trivy-mcp",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Security and Code-Quality MCP Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jenkinsci/mcp-server-plugin",
+              "description": "prodmcpapprovalwrite Official Jenkins plugin that enables Jenkins to act as an MCP server for LLM-powered clients.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991268311,
+                "language": "Java",
+                "last_commit": "2026-08-24T11:59:24Z",
+                "owner": "jenkinsci",
+                "repo": "mcp-server-plugin",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "argoproj-labs/mcp-for-argocd",
+              "description": "prototypemcpapprovalwrite Argo Project Labs MCP server implementation for Argo CD, filling the GitOps/CD gap in the catalog.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 967155121,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T15:32:49Z",
+                "owner": "argoproj-labs",
+                "repo": "mcp-for-argocd",
+                "stars": 557
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "controlplaneio-fluxcd/flux-operator (MCP)",
+              "description": "prodmcpapprovalevidencewrite Official Flux Operator MCP server from CNCF Flux core maintainers; Go single-binary with read-only mode, kubeconfig scoping, and Kubernetes impersonation. Covers Kustomizations, HelmReleases, drift detection, root cause analysis, and multi-cluster comparison.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 804570938,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:37:03Z",
+                "owner": "controlplaneio-fluxcd",
+                "repo": "flux-operator",
+                "stars": 744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CircleCI-Public/mcp-server-circleci",
+              "description": "prodmcpapprovalevidence Official CircleCI MCP server for build failure logs, pipeline status, flaky test detection, and usage analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 955501958,
+                "language": "TypeScript",
+                "last_commit": "2026-08-06T17:41:49Z",
+                "owner": "CircleCI-Public",
+                "repo": "mcp-server-circleci",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "harness/mcp-server",
+              "description": "prodmcpapprovalwrite Official Harness MCP server (Go) for CI/CD pipelines, deployments, connectors, feature flags, and infrastructure operations; risk-tiered model blocks destructive ops without confirmation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 983627253,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T10:04:10Z",
+                "owner": "harness",
+                "repo": "mcp-server",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official CI/CD and GitOps MCP Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "modelcontextprotocol/servers",
+              "description": "prodmcpapproval Official MCP reference server implementations and ecosystem pointers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890668799,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T01:12:36Z",
+                "owner": "modelcontextprotocol",
+                "repo": "servers",
+                "stars": 89830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "modelcontextprotocol/python-sdk",
+              "description": "prodmcpapproval Official Python SDK for building MCP servers and clients.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 862584018,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:42:02Z",
+                "owner": "modelcontextprotocol",
+                "repo": "python-sdk",
+                "stars": 24107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "modelcontextprotocol/typescript-sdk",
+              "description": "prodmcpapproval Official TypeScript SDK for Model Context Protocol servers and clients.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 862578138,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T04:15:41Z",
+                "owner": "modelcontextprotocol",
+                "repo": "typescript-sdk",
+                "stars": 13242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "modelcontextprotocol/registry",
+              "description": "prodmcpapprovalevidence Official community-driven registry service for Model Context Protocol servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 927890076,
+                "language": "Go",
+                "last_commit": "2026-08-22T22:35:31Z",
+                "owner": "modelcontextprotocol",
+                "repo": "registry",
+                "stars": 7187
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official MCP SDKs, Reference Implementations, Registries, and Governance Platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-samples/sample-cloudops-multi-agent-platform",
+              "description": "prototypeapprovalevidencewrite AWS Samples reference for a hierarchical multi-agent CloudOps platform using Bedrock AgentCore and Strands Agents SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1264666096,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:45:21Z",
+                "owner": "aws-samples",
+                "repo": "sample-cloudops-multi-agent-system",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official CloudOps Agent Samples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hashicorp/terraform-mcp-server",
+              "description": "prodmcpapprovalevidencewrite Official HashiCorp Terraform MCP server with registry, HCP Terraform, Terraform Enterprise, and OTel support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969282615,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:43:55Z",
+                "owner": "hashicorp",
+                "repo": "terraform-mcp-server",
+                "stars": 1511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hashicorp/vault-mcp-server",
+              "description": "prototypemcpapprovalwrite Official HashiCorp Vault MCP server for secrets and mount management, complementing the Terraform MCP server for IaC workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005167502,
+                "language": "Go",
+                "last_commit": "2026-08-20T04:04:55Z",
+                "owner": "hashicorp",
+                "repo": "vault-mcp-server",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "opentofu/opentofu-mcp-server",
+              "description": "prototypemcpapproval Official OpenTofu MCP server for searching the OpenTofu Registry, retrieving provider/module details, resource and data-source docs, and configuration examples via hosted or local MCP deployment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988291134,
+                "language": "TypeScript",
+                "last_commit": "2026-07-15T12:43:06Z",
+                "owner": "opentofu",
+                "repo": "opentofu-mcp-server",
+                "stars": 107
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official IaC MCP Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grafana/mcp-grafana",
+              "description": "prodmcpapprovalevidencewrite Official Grafana MCP server for Grafana and surrounding observability ecosystem access.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 907869862,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:17:34Z",
+                "owner": "grafana",
+                "repo": "mcp-grafana",
+                "stars": 3383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "getsentry/sentry-mcp",
+              "description": "prodmcpapprovalevidencewrite Official Sentry MCP service focused on human-in-the-loop coding agents and debugging workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957245447,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T07:20:48Z",
+                "owner": "getsentry",
+                "repo": "sentry-mcp",
+                "stars": 827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "datadog-labs/mcp-server",
+              "description": "prodmcpapprovalevidence Official Datadog MCP server documentation and examples for connecting AI agents to Datadog observability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150013389,
+                "language": "Python",
+                "last_commit": "2026-08-17T17:14:38Z",
+                "owner": "datadog-labs",
+                "repo": "mcp-server",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PagerDuty/pagerduty-mcp-server",
+              "description": "prodmcpapprovalwrite Official PagerDuty MCP server for incidents, services, schedules, event orchestrations, and embedded incident UIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997355758,
+                "language": "Python",
+                "last_commit": "2026-07-15T19:53:44Z",
+                "owner": "PagerDuty",
+                "repo": "pagerduty-mcp-server",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "newrelic/mcp-server",
+              "description": "prodmcpapprovalevidence Official New Relic MCP server for APM, dashboard, and NRQL-based observability context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1077549348,
+                "language": null,
+                "last_commit": "2025-10-24T09:10:31Z",
+                "owner": "newrelic",
+                "repo": "mcp-server",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dynatrace-oss/dynatrace-mcp",
+              "description": "prodmcpapprovalevidencewrite Official Dynatrace open-source MCP server for DQL querying, anomaly/incident/Kubernetes investigation, Davis Copilot AI chat, and deployment automation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 971357826,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:26:00Z",
+                "owner": "dynatrace-oss",
+                "repo": "dynatrace-mcp",
+                "stars": 134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official SRE MCP Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "microsoft/azure-devops-skills",
+              "description": "prodwrite Official Microsoft Azure DevOps skill examples; approval gates should be verified per skill.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1155735054,
+                "language": null,
+                "last_commit": "2026-07-16T13:28:27Z",
+                "owner": "microsoft",
+                "repo": "azure-devops-skills",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microsoft/skills",
+              "description": "prodmcpapproval Official Microsoft skills, MCP configurations, custom agents, and AGENTS.md guidance for coding agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1135891523,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T11:07:37Z",
+                "owner": "microsoft",
+                "repo": "skills",
+                "stars": 2942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microsoft/azure-skills",
+              "description": "prodmcpapprovalwrite Official Azure skills plugin with Azure skills, Azure MCP tools, and Foundry MCP coverage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1167823778,
+                "language": "Shell",
+                "last_commit": "2026-08-24T11:07:51Z",
+                "owner": "microsoft",
+                "repo": "azure-skills",
+                "stars": 1410
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google/skills",
+              "description": "prodapproval Official Google Agent Skills repository for Google products and technologies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1197652028,
+                "language": "Python",
+                "last_commit": "2026-08-22T20:48:53Z",
+                "owner": "google",
+                "repo": "skills",
+                "stars": 18653
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google/adk-python",
+              "description": "prodapprovalevidence Official Google Agent Development Kit for building, evaluating, and deploying agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958830659,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:13:55Z",
+                "owner": "google",
+                "repo": "adk-python",
+                "stars": 21255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoogleCloudPlatform/agent-starter-pack",
+              "description": "prodapprovalevidence Official Google Cloud starter pack for shipping agents with CI/CD, evaluation, observability, and security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 925298844,
+                "language": "Python",
+                "last_commit": "2026-07-21T23:42:40Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "agent-starter-pack",
+                "stars": 6541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "harness/harness-skills",
+              "description": "prodapprovalwrite Official Harness agent skills for Claude Code, Cursor, and GitHub Copilot enabling natural-language CI/CD automation via harness/mcp-server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1179203140,
+                "language": "Shell",
+                "last_commit": "2026-07-29T01:59:11Z",
+                "owner": "harness",
+                "repo": "harness-skills",
+                "stars": 97
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Agent Skills and Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "databricks-solutions/ai-dev-kit",
+              "description": "prodmcpapprovalevidencewrite Databricks field-engineering AI Dev Kit with Databricks MCP server, Databricks skills, tools core, and builder app support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1117894769,
+                "language": "Python",
+                "last_commit": "2026-08-13T05:16:28Z",
+                "owner": "databricks-solutions",
+                "repo": "ai-dev-kit",
+                "stars": 1865
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kubeflow/mcp-server",
+              "description": "prodmcpapprovalwrite Official Kubeflow MCP server for AI-assisted development with Kubeflow tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1205015175,
+                "language": "Python",
+                "last_commit": "2026-08-17T14:50:22Z",
+                "owner": "kubeflow",
+                "repo": "mcp-server",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "backstage/backstage (mcp-actions-backend)",
+              "description": "prodmcpapprovalwrite Official CNCF Backstage plugin that exposes Internal Developer Portal actions as MCP tools for AI agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236095576,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:16:28Z",
+                "owner": "backstage",
+                "repo": "backstage",
+                "stars": 34227
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Platform Agent Toolkits"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jgraph/drawio-mcp",
+              "description": "prodmcpapproval draw.io MCP server and Claude Code plugin for generating, opening, and exporting draw.io diagrams with shape search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1148214569,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T20:10:27Z",
+                "owner": "jgraph",
+                "repo": "drawio-mcp",
+                "stars": 5261
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Diagramming and Architecture MCP Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChromeDevTools/chrome-devtools-mcp",
+              "description": "prodmcpapprovalevidencewrite Official Chrome DevTools MCP server for browser debugging, performance tracing, network inspection, and DOM automation in coding agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1054793726,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T10:54:30Z",
+                "owner": "ChromeDevTools",
+                "repo": "chrome-devtools-mcp",
+                "stars": 49641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microsoft/playwright-mcp",
+              "description": "prodmcpapprovalwrite Official Microsoft Playwright MCP server exposing accessibility-tree browser automation for web QA, scraping, debugging, and exploratory agent loops.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952688112,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T22:46:04Z",
+                "owner": "microsoft",
+                "repo": "playwright-mcp",
+                "stars": 36423
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Browser Automation and Debugging MCP Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongodb-js/mongodb-mcp-server",
+              "description": "prodmcpapprovalwrite Official MongoDB MCP server (public preview) connecting agents to MongoDB Community, Enterprise, and Atlas deployments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960484071,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:39:22Z",
+                "owner": "mongodb-js",
+                "repo": "mongodb-mcp-server",
+                "stars": 1106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redis/mcp-redis",
+              "description": "prodmcpapprovalwrite Official Redis MCP Server for natural-language Redis data management, cache/session workflows, vector search, streams, pub/sub, and Redis documentation lookup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 959084910,
+                "language": "Python",
+                "last_commit": "2026-08-05T12:04:27Z",
+                "owner": "redis",
+                "repo": "mcp-redis",
+                "stars": 600
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "googleapis/mcp-toolbox",
+              "description": "prodmcpapprovalevidencewrite Official Google APIs MCP Toolbox for Databases with self-hosted database tools, SDKs, integrated auth, and OpenTelemetry support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812044182,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:19:06Z",
+                "owner": "googleapis",
+                "repo": "mcp-toolbox",
+                "stars": 16249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dbt-labs/dbt-mcp",
+              "description": "prodmcpapprovalwrite Official dbt Labs MCP server for dbt Core, dbt Fusion, and dbt Platform context, including Discovery API, Semantic Layer, project search, and dbt CLI tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947516890,
+                "language": "Python",
+                "last_commit": "2026-08-21T01:27:13Z",
+                "owner": "dbt-labs",
+                "repo": "dbt-mcp",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bytebase/dbhub",
+              "description": "prodmcpapprovalwrite Bytebase-maintained DBHub MCP server from an independent database DevSecOps vendor for Postgres, MySQL, MariaDB, SQL Server, and SQLite; supports execute_sql plus read-only mode, row limits, and timeouts, so use least-privilege DB credentials and approval gates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 945530209,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T05:20:06Z",
+                "owner": "bytebase",
+                "repo": "dbhub",
+                "stars": 3394
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Data Platform MCP Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vantage-sh/vantage-mcp-server",
+              "description": "prodmcpapprovalevidencewrite Official Vantage MCP server for natural-language FinOps workflows over Vantage cloud spend, budgets, anomalies, reports, and provider resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960003560,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T23:10:13Z",
+                "owner": "vantage-sh",
+                "repo": "vantage-mcp-server",
+                "stars": 84
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official FinOps and Cloud-Cost MCP Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rohitg00/awesome-devops-mcp-servers",
+              "description": "mcpprototype Community discovery source for MCP ecosystem mapping and candidate integrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 977313158,
+                "language": null,
+                "last_commit": "2026-05-12T23:10:35Z",
+                "owner": "rohitg00",
+                "repo": "awesome-devops-mcp-servers",
+                "stars": 1020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "antonbabenko/terraform-skill",
+              "description": "prototypeapproval Community Terraform-specific prompt and workflow reference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1135169266,
+                "language": null,
+                "last_commit": "2026-07-03T05:56:41Z",
+                "owner": "antonbabenko",
+                "repo": "terraform-skill",
+                "stars": 2299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "addyosmani/agent-skills",
+              "description": "prodapproval Community engineering skill reference; useful style and structure input for DevOps-specific skills.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158722119,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T18:15:04Z",
+                "owner": "addyosmani",
+                "repo": "agent-skills",
+                "stars": 89421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agents365-ai/drawio-skill",
+              "description": "prototypeapproval Community draw.io skill for natural-language diagram generation, visual self-checking, and exports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171833693,
+                "language": "Python",
+                "last_commit": "2026-08-23T07:38:33Z",
+                "owner": "Agents365-ai",
+                "repo": "drawio-skill",
+                "stars": 7944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "containers/kubernetes-mcp-server",
+              "description": "prodmcpapprovalevidencewrite Community-maintained Containers org MCP server for Kubernetes and OpenShift with direct Kubernetes API access, multi-cluster support, read-only mode, and a read-only production setup guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 930678258,
+                "language": "Go",
+                "last_commit": "2026-08-24T10:55:33Z",
+                "owner": "containers",
+                "repo": "kubernetes-mcp-server",
+                "stars": 2014
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skyhook-io/radar",
+              "description": "prodmcpapprovalevidencewrite Community open-source Kubernetes UI with a built-in MCP server: read-only cluster/topology/event queries plus RBAC-scoped write and GitOps/Helm tools for AI-assisted operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1137865761,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:19:04Z",
+                "owner": "skyhook-io",
+                "repo": "radar",
+                "stars": 3083
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Discovery and Skills"
+        }
+      ],
+      "title": "Curated catalog"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T00:29:26.290Z",
+    "last_updated": "2026-08-24T14:46:02.956Z",
     "original_repository": "DevOpsAIguru123/awesome-agentic-devops",
     "original_repository_id": 1286709310,
     "original_repository_sha": "d426b7df8977930a683231c7dfae04e58c6e2238",
