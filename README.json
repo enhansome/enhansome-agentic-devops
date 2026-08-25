@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T17:39:42Z",
             "owner": "aws",
             "repo": "agent-toolkit-for-aws",
-            "stars": 2422
+            "stars": 2423
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 963038660,
             "language": "C#",
-            "last_commit": "2026-08-25T00:26:14Z",
+            "last_commit": "2026-08-25T01:11:25Z",
             "owner": "microsoft",
             "repo": "mcp",
             "stars": 3600
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-24T16:25:05Z",
+            "last_commit": "2026-08-25T02:59:57Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32472
+            "stars": 32481
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T14:43:55Z",
             "owner": "hashicorp",
             "repo": "terraform-mcp-server",
-            "stars": 1511
+            "stars": 1512
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 907869862,
             "language": "Go",
-            "last_commit": "2026-08-24T23:15:44Z",
+            "last_commit": "2026-08-25T05:16:09Z",
             "owner": "grafana",
             "repo": "mcp-grafana",
-            "stars": 3383
+            "stars": 3385
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-24T19:00:23Z",
             "owner": "modelcontextprotocol",
             "repo": "python-sdk",
-            "stars": 24111
+            "stars": 24115
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 1054793726,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:06:03Z",
+            "last_commit": "2026-08-25T06:35:13Z",
             "owner": "ChromeDevTools",
             "repo": "chrome-devtools-mcp",
-            "stars": 49659
+            "stars": 49669
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 958830659,
             "language": "Python",
-            "last_commit": "2026-08-24T23:42:23Z",
+            "last_commit": "2026-08-25T04:53:22Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21264
+            "stars": 21269
           }
         }
       ],
@@ -221,8 +221,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2026-08-07",
-          "description": "heroku/heroku-mcp-server Cloud / Heroku PaaS operations",
+          "title": "heroku/heroku-mcp-server",
+          "description": "Cloud / Heroku PaaS operations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,8 +236,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-25",
-          "description": "opentofu/opentofu-mcp-server IaC / OpenTofu Registry MCP",
+          "title": "opentofu/opentofu-mcp-server",
+          "description": "IaC / OpenTofu Registry MCP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,8 +251,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-23",
-          "description": "containers/kubernetes-mcp-server Community / Kubernetes and OpenShift",
+          "title": "containers/kubernetes-mcp-server",
+          "description": "Community / Kubernetes and OpenShift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,13 +261,13 @@
             "last_commit": "2026-08-24T10:55:33Z",
             "owner": "containers",
             "repo": "kubernetes-mcp-server",
-            "stars": 2016
+            "stars": 2018
           }
         },
         {
           "node_type": "item",
-          "title": "2026-07-23",
-          "description": "cisco-ai-defense/mcp-scanner Security / MCP server scanning",
+          "title": "cisco-ai-defense/mcp-scanner",
+          "description": "Security / MCP server scanning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,8 +281,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-22",
-          "description": "docker/hub-mcp DevOps / Docker Hub container workflows",
+          "title": "docker/hub-mcp",
+          "description": "DevOps / Docker Hub container workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,13 +291,13 @@
             "last_commit": "2026-08-20T09:43:08Z",
             "owner": "docker",
             "repo": "hub-mcp",
-            "stars": 161
+            "stars": 162
           }
         },
         {
           "node_type": "item",
-          "title": "2026-07-22",
-          "description": "digitalocean-labs/mcp-digitalocean Cloud / DigitalOcean",
+          "title": "digitalocean-labs/mcp-digitalocean",
+          "description": "Cloud / DigitalOcean",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,29 +311,29 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-22",
-          "description": "googleapis/mcp-toolbox Data platform / database toolbox",
+          "title": "googleapis/mcp-toolbox",
+          "description": "Data platform / database toolbox",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 812044182,
             "language": "Go",
-            "last_commit": "2026-08-24T23:48:54Z",
+            "last_commit": "2026-08-25T06:22:49Z",
             "owner": "googleapis",
             "repo": "mcp-toolbox",
-            "stars": 16249
+            "stars": 16250
           }
         },
         {
           "node_type": "item",
-          "title": "2026-07-22",
-          "description": "dbt-labs/dbt-mcp Data platform / dbt",
+          "title": "dbt-labs/dbt-mcp",
+          "description": "Data platform / dbt",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 947516890,
             "language": "Python",
-            "last_commit": "2026-08-21T01:27:13Z",
+            "last_commit": "2026-08-25T03:34:32Z",
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
             "stars": 598
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-22",
-          "description": "bytebase/dbhub Data platform / independent-vendor DBHub SQL MCP",
+          "title": "bytebase/dbhub",
+          "description": "Data platform / independent-vendor DBHub SQL MCP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,8 +356,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-22",
-          "description": "aquasecurity/trivy-mcp Security / Trivy vulnerability scanning",
+          "title": "aquasecurity/trivy-mcp",
+          "description": "Security / Trivy vulnerability scanning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -371,8 +371,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-18",
-          "description": "DopplerHQ/mcp-server Security / Doppler secrets management",
+          "title": "DopplerHQ/mcp-server",
+          "description": "Security / Doppler secrets management",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,8 +386,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-17",
-          "description": "CrowdStrike/falcon-mcp Security / CrowdStrike Falcon SOC automation",
+          "title": "CrowdStrike/falcon-mcp",
+          "description": "Security / CrowdStrike Falcon SOC automation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-14",
-          "description": "dynatrace-oss/dynatrace-mcp SRE / Dynatrace observability",
+          "title": "dynatrace-oss/dynatrace-mcp",
+          "description": "SRE / Dynatrace observability",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,14 +416,14 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-12",
-          "description": "harness/mcp-server CI/CD / Harness",
+          "title": "harness/mcp-server",
+          "description": "CI/CD / Harness",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 983627253,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T00:16:38Z",
+            "last_commit": "2026-08-25T05:00:17Z",
             "owner": "harness",
             "repo": "mcp-server",
             "stars": 91
@@ -431,8 +431,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-12",
-          "description": "harness/harness-skills Agent skills / Harness",
+          "title": "harness/harness-skills",
+          "description": "Agent skills / Harness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -441,13 +441,13 @@
             "last_commit": "2026-07-29T01:59:11Z",
             "owner": "harness",
             "repo": "harness-skills",
-            "stars": 97
+            "stars": 98
           }
         },
         {
           "node_type": "item",
-          "title": "2026-07-09",
-          "description": "redis/mcp-redis Data platform / Redis",
+          "title": "redis/mcp-redis",
+          "description": "Data platform / Redis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -456,13 +456,13 @@
             "last_commit": "2026-08-05T12:04:27Z",
             "owner": "redis",
             "repo": "mcp-redis",
-            "stars": 600
+            "stars": 601
           }
         },
         {
           "node_type": "item",
-          "title": "2026-07-07",
-          "description": "skyhook-io/radar Kubernetes / community MCP",
+          "title": "skyhook-io/radar",
+          "description": "Kubernetes / community MCP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,13 +471,13 @@
             "last_commit": "2026-08-24T23:39:35Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3102
+            "stars": 3105
           }
         },
         {
           "node_type": "item",
-          "title": "2026-07-06",
-          "description": "vantage-sh/vantage-mcp-server FinOps / cloud cost",
+          "title": "vantage-sh/vantage-mcp-server",
+          "description": "FinOps / cloud cost",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,8 +491,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-05",
-          "description": "hashicorp/vault-mcp-server IaC / secrets management",
+          "title": "hashicorp/vault-mcp-server",
+          "description": "IaC / secrets management",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -501,13 +501,13 @@
             "last_commit": "2026-08-20T04:04:55Z",
             "owner": "hashicorp",
             "repo": "vault-mcp-server",
-            "stars": 58
+            "stars": 59
           }
         },
         {
           "node_type": "item",
-          "title": "2026-07-05",
-          "description": "cloudflare/mcp-server-cloudflare Cloud / edge",
+          "title": "cloudflare/mcp-server-cloudflare",
+          "description": "Cloud / edge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -516,13 +516,13 @@
             "last_commit": "2026-08-24T09:19:59Z",
             "owner": "cloudflare",
             "repo": "mcp-server-cloudflare",
-            "stars": 4106
+            "stars": 4108
           }
         },
         {
           "node_type": "item",
-          "title": "2026-07-05",
-          "description": "CircleCI-Public/mcp-server-circleci CI/CD",
+          "title": "CircleCI-Public/mcp-server-circleci",
+          "description": "CI/CD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,8 +536,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-05",
-          "description": "mongodb-js/mongodb-mcp-server Data platform",
+          "title": "mongodb-js/mongodb-mcp-server",
+          "description": "Data platform",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -551,8 +551,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-05",
-          "description": "backstage/backstage (mcp-actions-backend) Platform toolkits",
+          "title": "backstage/backstage (mcp-actions-backend)",
+          "description": "Platform toolkits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-24T20:55:57Z",
             "owner": "backstage",
             "repo": "backstage",
-            "stars": 34231
+            "stars": 34236
           }
         }
       ],
@@ -584,7 +584,7 @@
                 "last_commit": "2026-08-24T17:39:42Z",
                 "owner": "aws",
                 "repo": "agent-toolkit-for-aws",
-                "stars": 2422
+                "stars": 2423
               }
             },
             {
@@ -596,7 +596,7 @@
                 "archived": false,
                 "id": 952238700,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:23:09Z",
+                "last_commit": "2026-08-25T02:36:33Z",
                 "owner": "awslabs",
                 "repo": "mcp",
                 "stars": 9636
@@ -611,7 +611,7 @@
                 "archived": false,
                 "id": 963038660,
                 "language": "C#",
-                "last_commit": "2026-08-25T00:26:14Z",
+                "last_commit": "2026-08-25T01:11:25Z",
                 "owner": "microsoft",
                 "repo": "mcp",
                 "stars": 3600
@@ -659,7 +659,7 @@
                 "last_commit": "2026-08-20T13:36:59Z",
                 "owner": "GoogleCloudPlatform",
                 "repo": "cloud-run-mcp",
-                "stars": 626
+                "stars": 627
               }
             },
             {
@@ -674,7 +674,7 @@
                 "last_commit": "2026-08-24T09:19:59Z",
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4106
+                "stars": 4108
               }
             },
             {
@@ -741,7 +741,7 @@
                 "last_commit": "2026-08-24T16:22:43Z",
                 "owner": "microsoft",
                 "repo": "azure-devops-mcp",
-                "stars": 1977
+                "stars": 1978
               }
             },
             {
@@ -753,10 +753,10 @@
                 "archived": false,
                 "id": 942771284,
                 "language": "Go",
-                "last_commit": "2026-08-24T16:25:05Z",
+                "last_commit": "2026-08-25T02:59:57Z",
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32472
+                "stars": 32481
               }
             },
             {
@@ -783,10 +783,10 @@
                 "archived": false,
                 "id": 998827890,
                 "language": "Go",
-                "last_commit": "2026-08-24T05:17:40Z",
+                "last_commit": "2026-08-25T05:14:58Z",
                 "owner": "docker",
                 "repo": "mcp-registry",
-                "stars": 545
+                "stars": 547
               }
             },
             {
@@ -801,7 +801,7 @@
                 "last_commit": "2026-08-20T09:43:08Z",
                 "owner": "docker",
                 "repo": "hub-mcp",
-                "stars": 161
+                "stars": 162
               }
             },
             {
@@ -883,7 +883,7 @@
                 "last_commit": "2026-08-24T16:18:02Z",
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 2954
+                "stars": 2955
               }
             },
             {
@@ -995,7 +995,7 @@
                 "last_commit": "2026-08-24T19:04:56Z",
                 "owner": "controlplaneio-fluxcd",
                 "repo": "flux-operator",
-                "stars": 744
+                "stars": 745
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "archived": false,
                 "id": 983627253,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T00:16:38Z",
+                "last_commit": "2026-08-25T05:00:17Z",
                 "owner": "harness",
                 "repo": "mcp-server",
                 "stars": 91
@@ -1047,7 +1047,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89832
+                "stars": 89834
               }
             },
             {
@@ -1062,7 +1062,7 @@
                 "last_commit": "2026-08-24T19:00:23Z",
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24111
+                "stars": 24115
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "archived": false,
                 "id": 862578138,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T04:15:41Z",
+                "last_commit": "2026-08-25T04:13:28Z",
                 "owner": "modelcontextprotocol",
                 "repo": "typescript-sdk",
                 "stars": 13244
@@ -1092,7 +1092,7 @@
                 "last_commit": "2026-08-22T22:35:31Z",
                 "owner": "modelcontextprotocol",
                 "repo": "registry",
-                "stars": 7187
+                "stars": 7189
               }
             }
           ],
@@ -1136,7 +1136,7 @@
                 "last_commit": "2026-08-24T14:43:55Z",
                 "owner": "hashicorp",
                 "repo": "terraform-mcp-server",
-                "stars": 1511
+                "stars": 1512
               }
             },
             {
@@ -1151,7 +1151,7 @@
                 "last_commit": "2026-08-20T04:04:55Z",
                 "owner": "hashicorp",
                 "repo": "vault-mcp-server",
-                "stars": 58
+                "stars": 59
               }
             },
             {
@@ -1185,10 +1185,10 @@
                 "archived": false,
                 "id": 907869862,
                 "language": "Go",
-                "last_commit": "2026-08-24T23:15:44Z",
+                "last_commit": "2026-08-25T05:16:09Z",
                 "owner": "grafana",
                 "repo": "mcp-grafana",
-                "stars": 3383
+                "stars": 3385
               }
             },
             {
@@ -1300,7 +1300,7 @@
                 "last_commit": "2026-08-24T22:16:44Z",
                 "owner": "microsoft",
                 "repo": "skills",
-                "stars": 2947
+                "stars": 2949
               }
             },
             {
@@ -1330,7 +1330,7 @@
                 "last_commit": "2026-08-24T23:49:36Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18666
+                "stars": 18682
               }
             },
             {
@@ -1342,10 +1342,10 @@
                 "archived": false,
                 "id": 958830659,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:42:23Z",
+                "last_commit": "2026-08-25T04:53:22Z",
                 "owner": "google",
                 "repo": "adk-python",
-                "stars": 21264
+                "stars": 21269
               }
             },
             {
@@ -1375,7 +1375,7 @@
                 "last_commit": "2026-07-29T01:59:11Z",
                 "owner": "harness",
                 "repo": "harness-skills",
-                "stars": 97
+                "stars": 98
               }
             }
           ],
@@ -1397,7 +1397,7 @@
                 "last_commit": "2026-08-13T05:16:28Z",
                 "owner": "databricks-solutions",
                 "repo": "ai-dev-kit",
-                "stars": 1866
+                "stars": 1867
               }
             },
             {
@@ -1412,7 +1412,7 @@
                 "last_commit": "2026-08-17T14:50:22Z",
                 "owner": "kubeflow",
                 "repo": "mcp-server",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -1427,7 +1427,7 @@
                 "last_commit": "2026-08-24T20:55:57Z",
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34231
+                "stars": 34236
               }
             }
           ],
@@ -1449,7 +1449,7 @@
                 "last_commit": "2026-08-03T20:10:27Z",
                 "owner": "jgraph",
                 "repo": "drawio-mcp",
-                "stars": 5262
+                "stars": 5270
               }
             }
           ],
@@ -1468,10 +1468,10 @@
                 "archived": false,
                 "id": 1054793726,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:06:03Z",
+                "last_commit": "2026-08-25T06:35:13Z",
                 "owner": "ChromeDevTools",
                 "repo": "chrome-devtools-mcp",
-                "stars": 49659
+                "stars": 49669
               }
             },
             {
@@ -1486,7 +1486,7 @@
                 "last_commit": "2026-08-21T22:46:04Z",
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36428
+                "stars": 36440
               }
             }
           ],
@@ -1523,7 +1523,7 @@
                 "last_commit": "2026-08-05T12:04:27Z",
                 "owner": "redis",
                 "repo": "mcp-redis",
-                "stars": 600
+                "stars": 601
               }
             },
             {
@@ -1535,10 +1535,10 @@
                 "archived": false,
                 "id": 812044182,
                 "language": "Go",
-                "last_commit": "2026-08-24T23:48:54Z",
+                "last_commit": "2026-08-25T06:22:49Z",
                 "owner": "googleapis",
                 "repo": "mcp-toolbox",
-                "stars": 16249
+                "stars": 16250
               }
             },
             {
@@ -1550,7 +1550,7 @@
                 "archived": false,
                 "id": 947516890,
                 "language": "Python",
-                "last_commit": "2026-08-21T01:27:13Z",
+                "last_commit": "2026-08-25T03:34:32Z",
                 "owner": "dbt-labs",
                 "repo": "dbt-mcp",
                 "stars": 598
@@ -1627,7 +1627,7 @@
                 "last_commit": "2026-07-03T05:56:41Z",
                 "owner": "antonbabenko",
                 "repo": "terraform-skill",
-                "stars": 2300
+                "stars": 2302
               }
             },
             {
@@ -1642,7 +1642,7 @@
                 "last_commit": "2026-08-21T18:15:04Z",
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 89489
+                "stars": 89546
               }
             },
             {
@@ -1657,7 +1657,7 @@
                 "last_commit": "2026-08-23T07:38:33Z",
                 "owner": "Agents365-ai",
                 "repo": "drawio-skill",
-                "stars": 7952
+                "stars": 7964
               }
             },
             {
@@ -1672,7 +1672,7 @@
                 "last_commit": "2026-08-24T10:55:33Z",
                 "owner": "containers",
                 "repo": "kubernetes-mcp-server",
-                "stars": 2016
+                "stars": 2018
               }
             },
             {
@@ -1687,7 +1687,7 @@
                 "last_commit": "2026-08-24T23:39:35Z",
                 "owner": "skyhook-io",
                 "repo": "radar",
-                "stars": 3102
+                "stars": 3105
               }
             }
           ],
@@ -1700,7 +1700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:28:56.785Z",
+    "last_updated": "2026-08-25T06:40:25.938Z",
     "original_repository": "DevOpsAIguru123/awesome-agentic-devops",
     "original_repository_id": 1286709310,
     "original_repository_sha": "d426b7df8977930a683231c7dfae04e58c6e2238",
